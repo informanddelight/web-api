@@ -1,7 +1,7 @@
 node {    
 
       def app     
-      def appName='devops-demo-web-app'
+      def appName='SandwichDeliveryService'
       def snapName=''
       def deployableName = 'PROD-US'
       def setYamlUpload = true
